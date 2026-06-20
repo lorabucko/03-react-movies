@@ -1,7 +1,5 @@
-Застосунок, який дозволяє користувачам залишати відгуки про кав’ярню. 
-Є три варіанти оцінки: good, neutral, bad. Користувач обирає одну з опцій і бачить статистику.
-
-<img width="514" height="328" alt="image" src="https://github.com/user-attachments/assets/0c712d45-1737-42fe-a363-8d181d13769b" />
+<img width="982" height="844" alt="image" src="https://github.com/user-attachments/assets/fa985d63-cbb6-483e-ba83-8ca3feb51af5" />
+MOVIE SEARCH APP
 
 STACK 
 # React + TypeScript + Vite
